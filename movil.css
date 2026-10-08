@@ -112,17 +112,17 @@ nav.abierto {
     align-items: center !important;
 }
 
+.carrusel-item h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
 .carrusel-item img {
     width: 100% !important;
     height: 200px !important;
     object-fit: contain !important;
     margin-bottom: 15px !important;
     display: block !important;
-}
-
-.carrusel-item h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
 }
 
 .carrusel-item p {
